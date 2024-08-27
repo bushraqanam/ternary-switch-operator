@@ -1,0 +1,1 @@
+# ternary-switch-operator
